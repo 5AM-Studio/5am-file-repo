@@ -1,4 +1,4 @@
 git add *.*
-git commit -m "Added Some Pictures for my Hexo Blog"
+git commit -m "Added Something to our website"
 git push
 pause
